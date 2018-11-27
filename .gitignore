@@ -24,3 +24,6 @@ PAT乙级/Project1/Project1/Project1.vcxproj
 PAT乙级/Project1/Project1/Project1.vcxproj.filters
 *.vcxproj
 *.filters
+*.db
+*.opendb
+*.user
