@@ -2,11 +2,13 @@
 #include<math.h>
 using namespace std;
 void toD(int S, int D);
+string mars[13] = { "tret","jan", "feb", "mar", "apr", "may", "jun", "jly",
+"aug", "sep", "oct", "nov", "dec" };
 int main()
 {
-	int A, B,D;
-	cin >> A >> B>>D;
-	int S = A + B;
+	int S ;
+	cin >> S;
+	int D = 13;
 	toD(S, D);
 	return 0;
 }
