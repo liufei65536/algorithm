@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\算法练习\algorithm\pat乙级\project1\project1\patlianxi\patlianxi\</FILEPATH>
+      <FILENAME>1059.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用了堆栈的“120036”个字节: 超过了 /analyze:stacksize '16384'。 请考虑将某些数据移到堆中。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
